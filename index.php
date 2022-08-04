@@ -140,6 +140,100 @@
 	</div>
 
 
+	<div id="fh5co-work" class="fh5co-bg-dark">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Projects</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="https://github.com/TanweerKarim/bill-generator/tree/master" class="work" style="background-image: url(images/portfolio-1.png);">
+						<div class="desc">
+							<h3>Bill Generator</h3>
+							<span>An App which is used to generate Bill for your firm</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="https://github.com/TanweerKarim/Techno-board-portal/tree/master" class="work" style="background-image: url(images/portfolio-2.png);">
+						<div class="desc">
+							<h3>Techno Board Portal</h3>
+							<span>University Management System</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="https://github.com/TanweerKarim/Hostel-management-system/tree/master" class="work" style="background-image: url(images/portfolio-3.png);">
+						<div class="desc">
+							<h3>Hostel Management System</h3>
+							<span>Use to manage hostel</span>
+						</div>
+					</a>
+				</div>
+				<div class="col-md-3 text-center col-padding animate-box">
+					<a href="https://github.com/TanweerKarim/Message-encrypt/tree/master" class="work" style="background-image: url(images/portfolio-4.png);">
+						<div class="desc">
+							<h3>Message Encryption with key</h3>
+							<span>Use of AES and OpenSSL</span>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="fh5co-resume" class="fh5co-bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-md-offset-0">
+					<ul class="timeline">
+						<li class="timeline-heading text-center animate-box">
+							<div><h3>Certification</h3></div>
+						</li>
+
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge"><i class="icon-clipboard"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">AWS Cloud Practitioner Essentials</h3>
+									<span class="company">Amazon Web Services (AWS)</span>
+								</div>
+								<div class="timeline-body">
+									<p><a href="#">Open certificate</a></p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-clipboard"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">AWS Technical Essentials</h3>
+									<span class="company">Amazon Web Services (AWS)</span>
+								</div>
+								<div class="timeline-body">
+									<p><a href="#">Open certificate</a></p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge"><i class="icon-clipboard"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">SIP Web-Development </h3>
+									<span class="company">Adityapur Auto Cluster</span>
+								</div>
+								<div class="timeline-body">
+									<p><a href="#">Open certificate</a></p>
+								</div>
+							</div>
+						</li>
+			    	</ul>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<div id="fh5co-skills" class="animate-box">
 		<div class="container">
@@ -222,49 +316,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-work" class="fh5co-bg-dark">
-		<div class="container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Work</h2>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://github.com/TanweerKarim/bill-generator/tree/master" class="work" style="background-image: url(images/portfolio-1.png);">
-						<div class="desc">
-							<h3>Bill Generator</h3>
-							<span>An App which is used to generate Bill for your firm</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://github.com/TanweerKarim/Techno-board-portal/tree/master" class="work" style="background-image: url(images/portfolio-2.png);">
-						<div class="desc">
-							<h3>Techno Board Portal</h3>
-							<span>University Management System</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://github.com/TanweerKarim/Hostel-management-system/tree/master" class="work" style="background-image: url(images/portfolio-3.png);">
-						<div class="desc">
-							<h3>Hostel Management System</h3>
-							<span>Use to manage hostel</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="https://github.com/TanweerKarim/Message-encrypt/tree/master" class="work" style="background-image: url(images/portfolio-4.png);">
-						<div class="desc">
-							<h3>Message Encryption with key</h3>
-							<span>Use of AES and OpenSSL</span>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
+
 
 	<div id="fh5co-consult">
 		<div class="video fh5co-video" style="background-image: url(images/cover_bg_1.jpg);">
