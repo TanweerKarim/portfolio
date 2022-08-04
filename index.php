@@ -37,7 +37,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<img src="images/image.png" class="profile-thumb">
+							<div class="profile-thumb" sstyle="background-image: url(images/portfolio-1.png);"></div>
 							<h1><span>Tanweer Karim</span></h1>
 							<p>
 								<ul class="fh5co-social-icons">
