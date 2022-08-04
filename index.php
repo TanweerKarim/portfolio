@@ -201,7 +201,7 @@
 									<span class="company">Amazon Web Services (AWS)</span>
 								</div>
 								<div class="timeline-body">
-									<p><a href="#">Open certificate</a></p>
+									<p><a href="resource/c1.pdf">Open certificate</a></p>
 								</div>
 							</div>
 						</li>
@@ -213,7 +213,7 @@
 									<span class="company">Amazon Web Services (AWS)</span>
 								</div>
 								<div class="timeline-body">
-									<p><a href="#">Open certificate</a></p>
+									<p><a href="resource/c2.pdf">Open certificate</a></p>
 								</div>
 							</div>
 						</li>
@@ -225,7 +225,7 @@
 									<span class="company">Adityapur Auto Cluster</span>
 								</div>
 								<div class="timeline-body">
-									<p><a href="#">Open certificate</a></p>
+									<p><a href="resource/c3.pdf">Open certificate</a></p>
 								</div>
 							</div>
 						</li>
